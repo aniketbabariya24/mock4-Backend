@@ -12,7 +12,7 @@
         "JavaScript"
       ],
       "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
+      "profile_picture": "https://www.zdnet.com/a/img/resize/adcb2eb2cc3f5562f7e80931308e2a08b01947ce/2019/08/19/4a663776-f4a9-4f89-9bee-2d07ee052f5b/istock-1147195672-11.jpg?auto=webp&fit=crop&height=900&width=1200",
       "isBooked": false
     },
     {
@@ -26,47 +26,47 @@
         "Illustrator"
       ],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
+      "profile_picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/gzZpBDV3nX1AWytfLhbgs/d528553697d959544c8ca5b80b6d8beb/web_developer.png?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=",
       "isBooked": true
     },
     {
-      "name": "",
+      "name": "Brijesh Patel",
       "profile_picture": "",
       "email": "bmsavaliya001@gmail.com",
       "password": "001001",
-      "profession": "",
+      "profession": "Student",
       "skills": [
-        ""
+        "Node", "Java"
       ],
       "isBooked": false,
-      "hourly_rate": 0,
+      "hourly_rate": 8000,
       "id": 3
     },
     {
-      "name": "",
-      "profile_picture": "",
+      "name": "Amit ",
+      "profile_picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/4NAwrInfpEhTT3Kti5eMA6/e5e7a301fc824d01dda224830a065135/GettyImages-1341554760.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=",
       "email": "bmsavaliya001@gmail.com",
-      "password": "001001",
-      "profession": "",
+      "password": "4040",
+      "profession": "Web Developer",
       "skills": [
         "html",
         "css"
       ],
       "isBooked": false,
-      "hourly_rate": 0,
+      "hourly_rate": 70000,
       "id": 4
     },
     {
-      "name": "",
-      "profile_picture": "",
+      "name": "Rushi Joshi",
+      "profile_picture": "https://www.zdnet.com/a/img/resize/048650e36adaaef69b2df41072f8e0d0e1f44393/2022/02/28/d5b5f1c0-0dcc-4a07-b7ec-ab525bcca2e1/happy-developer-coding.jpg?auto=webp&width=1280",
       "email": "bmsavaliya001@gmail.com",
       "password": "001001",
-      "profession": "",
+      "profession": "Graphic Designer",
       "skills": [
-        ""
+        "Canva", "Photoshop"
       ],
       "isBooked": false,
-      "hourly_rate": 0,
+      "hourly_rate": 40000,
       "id": 5
     }
   ]
