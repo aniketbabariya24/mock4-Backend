@@ -69,51 +69,5 @@
       "hourly_rate": 0,
       "id": 5
     }
-  ],
-  "hotels": [
-    {
-      "id": "2",
-      "category": "Deluxe",
-      "imgUrl": "https://www.imglegacyhotel.com/wp-content/uploads/2018/10/legacy-hotel-23.jpg",
-      "roomType": "Non AC",
-      "bedType": "Single",
-      "noOfAdults": "1",
-      "capacity": "4",
-      "cost": "2000",
-      "booked": false
-    },
-    {
-      "id": "1",
-      "category": "Family",
-      "imgUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUExYUFBQWGBYYFhgaGRkZGh8ZHBoaFhkYGRkZGRoaIisiGh8oHxYaIzQkKC0uMTExGSE3PDcvOyswMS4BCwsLDw4PHRERHTEoISguMjIwOTIuMTYwMDAwMjAwMDIwMDIwMDAwLjAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMP/AABEIAKcBLQMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAQIDBQYAB//EAEcQAAIBAgQDBQUEBwcDAgcAAAECEQADBBIhMQVBUQYTImFxMoGRobEjQlLwFDNicrLB0QcVQ4KS0uFTc6IkRBZjZJOzwvH/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QAMBEAAgIBAwMCBAUEAwAAAAAAAAECEQMSITEEQVETkXGBofAFIjJhsRTR4fFCUsH/2gAMAwEAAhEDEQA/AK6zdU/maluYWRIpmHs5d9R86OtPO3Kvqmj5lfuUmJwZGsUGy1qLmogiqnGYGNRWQGq4KwrSRRQteVNazRoGogFTWWimZIqZFBo0K2H4Y6g79f8AirK2Qeciq/BWgVInUH40ZatkUrRWDJwK4rTopDSlBsV0U6K6K1GGxXRTororGGxTTUmWkKUDEBUU1rU0RkpAKxiEWBThaqSuINYw0JXGlNMLCsGzjXUgYUtCgWMZK4LUmWuomI6QrT4prUKMMIpppxFNNagWNNMNONIaNAsYaYae1RtOkadZrUZs41EbnQGpDXVqNYcMIQNDPzqSxKnUR9KbavsvLTpRVvEhtNqrRJC6HnQ18cjRcdRTDDAiPjWGK5cMDqNqb3A57UZYw+VjroRSXrHSsLQGcACNDTrXDiDqP5++icODO1Gg1jKKYF+gRqCJFTJsKmpIoDrbg4CurprqFBs4V1ITUGNxgtrmadwAAJJJ5ADU1nsFbhFdNQ4bFLcUMhBB2IqWaBrFm",
-      "roomType": "AC",
-      "bedType": "Single",
-      "noOfAdults": "1",
-      "capacity": "4",
-      "cost": "4444",
-      "booked": true
-    },
-    {
-      "id": "3",
-      "category": "Family",
-      "imgUrl": "https://www.imglegacyhotel.com/wp-content/uploads/2018/10/legacy-hotel-23.jpg",
-      "roomType": "AC",
-      "bedType": "Single",
-      "noOfAdults": "3",
-      "capacity": "3",
-      "cost": "3333",
-      "booked": false
-    },
-    {
-      "id": "4",
-      "category": "Family",
-      "imgUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUExYUFBQWGBYYFhgaGRkZGh8ZHBoaFhkYGRkZGRoaIisiGh8oHxYaIzQkKC0uMTExGSE3PDcvOyswMS4BCwsLDw4PHRERHTEoISguMjIwOTIuMTYwMDAwMjAwMDIwMDIwMDAwLjAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMP/AABEIAKcBLQMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAQIDBQYAB//EAEcQAAIBAgQDBQUEBwcDAgcAAAECEQADBBIhMQVBUQYTImFxMoGRobEjQlLwFDNicrLB0QcVQ4KS0uFTc6IkRBZjZJOzwvH/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QAMBEAAgIBAwMCBAUEAwAAAAAAAAECEQMSITEEQVETkXGBofAFIjJhsRTR4fFCUsH/2gAMAwEAAhEDEQA/AK6zdU/maluYWRIpmHs5d9R86OtPO3Kvqmj5lfuUmJwZGsUGy1qLmogiqnGYGNRWQGq4KwrSRRQteVNazRoGogFTWWimZIqZFBo0K2H4Y6g79f8AirK2Qeciq/BWgVInUH40ZatkUrRWDJwK4rTopDSlBsV0U6K6K1GGxXRTororGGxTTUmWkKUDEBUU1rU0RkpAKxiEWBThaqSuINYw0JXGlNMLCsGzjXUgYUtCgWMZK4LUmWuomI6QrT4prUKMMIpppxFNNagWNNMNONIaNAsYaYae1RtOkadZrUZs41EbnQGpDXVqNYcMIQNDPzqSxKnUR9KbavsvLTpRVvEhtNqrRJC6HnQ18cjRcdRTDDAiPjWGK5cMDqNqb3A57UZYw+VjroRSXrHSsLQGcACNDTrXDiDqP5++icODO1Gg1jKKYF+gRqCJFTJsKmpIoDrbg4CurprqFBs4V1ITUGNxgtrmadwAAJJJ5ADU1nsFbhFdNQ4bFLcUMhBB2IqWaBrFm",
-      "roomType": "AC",
-      "bedType": "Single",
-      "noOfAdults": "5",
-      "capacity": "6",
-      "cost": "5454",
-      "booked": false
-    }
   ]
 }
