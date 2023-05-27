@@ -31,7 +31,7 @@
     },
     {
       "name": "Brijesh Patel",
-      "profile_picture": "",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4ewHhE78XdzvB6eOb2nWXLpnZirfA91_vw&usqp=CAU",
       "email": "bmsavaliya001@gmail.com",
       "password": "001001",
       "profession": "Student",
@@ -68,6 +68,33 @@
       "isBooked": false,
       "hourly_rate": 40000,
       "id": 5
+    },
+    {
+      "name": "Aniket",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9X4p6L0SSEv0L6M1OLxNqFqkGSpsvUJZw4w&usqp=CAU",
+      "email": "bmsavaliya001@gmail.com",
+      "password": "001001",
+      "profession": "Web Developer",
+      "skills": [
+        "Node", "Java"
+      ],
+      "isBooked": false,
+      "hourly_rate": 600,
+      "id": 6
+    },
+    {
+      "name": "Kenil",
+      "profile_picture": "https://res.cloudinary.com/highereducation/images/w_1024,h_683,c_scale/f_auto,q_auto/v1669994566/BestColleges.com/web-developer-vs-software-engineer-man-with-laptop/web-developer-vs-software-engineer-man-with-laptop-1024x683.jpg",
+      "email": "kksavaliya001@gmail.com",
+      "password": "4040",
+      "profession": "Student",
+      "skills": [
+        "html",
+        "css"
+      ],
+      "isBooked": false,
+      "hourly_rate": 700,
+      "id": 7
     }
   ]
 }
